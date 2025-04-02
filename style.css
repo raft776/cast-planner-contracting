@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-   background-image: url("./images/Capgdbture.PNG");
+   
     height: 100vh;
     color: black;
     min-height: 500px;
